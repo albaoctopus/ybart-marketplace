@@ -2,7 +2,7 @@ import styles from "../../styles/Thirdweb.module.css";
 import React from "react";
 
 export default function ThirdwebGuideFooter() {
-  const url = "https://atereta-marketplace.vercel.app/";
+  const url = "https://ybart-marketplace.vercel.app/";
   return (
     <>
       <div
